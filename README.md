@@ -1,4 +1,4 @@
-#Homepage for Artmon
+# Homepage for Artmon
 
-#Progress
+# Progress
 finished sync API for Beds24 and created a backend REST API logic
